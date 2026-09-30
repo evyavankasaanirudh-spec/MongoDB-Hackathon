@@ -1,3 +1,5 @@
+WE SHALL UPLOAD OUR PROJECT WORK ONCE WE ARE DONE WITH OUT PROTOTYPE.
+AS OF NOW, WE HAVE UPLOADED THE FILES OF CONCEPTS RELATED TO MONGO SKILLS AND ALSO ATTACHED A PPT RELATED TO OUR PROJECT.
 # MongoDB Advanced Concepts Hackathon
 
 A hands-on demonstration of MongoDB and its advanced database capabilities using Python and PyMongo.
